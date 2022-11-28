@@ -4,6 +4,6 @@
 
 - 🔭 Project link [Online To-Do-list](https://easyans.github.io/Todo%20list%20webapplication/todo%20list%20webpage/todo%20list%20webpage/)
 
-- 💬 Team Members: **Medha,Baladitya,Aakash raj**
+- 💬 Team Members: *Medha,Baladitya,Aakash raj*
 
-- 📫 How to reach me **nikhilkommireddi@gmail.com**
+- 📫 How to reach me *nikhilkommireddi@gmail.com*
